@@ -1,5 +1,3 @@
-# MT-MARL-SG
-
 <h1 style="text-align: center;">Multi-Task Multi-Agent Reinforcement Learning via Skill Graphs</h1>
 
 <!-- <div align="center">
